@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704773375231",
+    "firebase_url": "https://authcamara.firebaseio.com",
+    "project_id": "authcamara",
+    "storage_bucket": "authcamara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704773375231:android:09d8f1daa338ee667cf8ca",
+        "android_client_info": {
+          "package_name": "com.example.auth_camara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704773375231-k757djaeqfgrel9eulcr8psuq255ick3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8aULC6DVeNQ3sqn3DyPoqKNUCG361bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704773375231-k757djaeqfgrel9eulcr8psuq255ick3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
